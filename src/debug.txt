@@ -1,0 +1,16 @@
+1 + ENTER
+2 + ENTER
+3 + ENTER
+4 + ENTER
+5 + ENTER
+6 + ENTER
+7 + ENTER
+8 + ENTER
+9 + ENTER
+1 + 0 + ENTER
+1 + 1 + ENTER
+1 + 2 + ENTER
+1 + 3 + ENTER
+1 + 4 + ENTER
+1 + 5 + ENTER
+1 + 6 + ENTER
